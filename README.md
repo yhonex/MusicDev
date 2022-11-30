@@ -1,6 +1,16 @@
+
+# In case there is an error when starting the app.
+
+
+In case of an error due to environment variables, please create an .env file and save this data:
+REACT_APP_AUTH0_DOMAIN=dev-htxibuk7c6axw17u.us.auth0.com
+REACT_APP_AUTH0_CLIEN_ID=ZwgVsso64QNFvNv0VJc83MK3TXVRYPCV
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 
 ## Available Scripts
 
